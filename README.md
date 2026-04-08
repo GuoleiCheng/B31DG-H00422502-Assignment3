@@ -1,4 +1,4 @@
-# B31DG-H00422502-Assignment3–FreeRTOS Implementation
+# B31DG-H00422502-Assignment3-FreeRTOS Implementation
 
 ## Overview
 This project contains my Assignment 3 FreeRTOS implementation for the real-time scheduling laboratory on ESP32-WROOM.  
