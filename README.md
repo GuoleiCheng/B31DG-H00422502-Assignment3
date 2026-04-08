@@ -5,11 +5,11 @@ This project contains my Assignment 3 FreeRTOS implementation for the real-time 
 It includes periodic tasks A, B, AGG, C, and D, one sporadic task S, and a monitor task for timing statistics and final reporting. 
 
 ## Files
-- `CMakeLists.txt` – project build file  
-- `sdkconfig` – project configuration set using `idf.py menuconfig`  
-- `main/main.c` – main task and scheduling logic  
-- `main/monitor.c` / `main/monitor.h` – timing monitor  
-- `main/workkernel.c` – provided workload function
+- `CMakeLists.txt` - project build file  
+- `sdkconfig` - project configuration set using `idf.py menuconfig`  
+- `main/main.c` - main task and scheduling logic  
+- `main/monitor.c` / `main/monitor.h` - timing monitor  
+- `main/workkernel.c` - provided workload function
 
 ## Configuration
 The `sdkconfig` file contains the project settings configured in `idf.py menuconfig`, including:
